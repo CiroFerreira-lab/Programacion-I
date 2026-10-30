@@ -1,0 +1,5 @@
+[
+    {"nombre": "Los Tanos", "jugadores": ["Martin Gomez", "Lucas Peralta"], "puntos": 6},
+    {"nombre": "Las Leonas", "jugadores": ["Sofia Ruiz", "Valentina Sosa"], "puntos": 9},
+    {"nombre": "Doble Falta", "jugadores": ["Diego Acosta", "Camila Diaz"], "puntos": 3}
+]
